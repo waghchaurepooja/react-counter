@@ -36,3 +36,52 @@
     transform: rotate(360deg);
   }
 }
+
+.App
+{
+  /* border: 1px solid; */
+  
+  padding: 1vw;
+}
+.ShowCount
+{
+  border: 1px solid;
+  width: 50vw;
+  margin: auto;
+}
+
+
+
+.red
+{
+  color: red;
+}
+.green
+{
+  color: green;
+}
+
+.buttonbox
+{
+  border: 1px solid;
+  display: flex;
+  justify-content: space-around;
+}
+.decreasebutton
+{
+  /* border: 1px solid; */
+  
+  display: flex;
+}
+.increasebutton
+{
+  /* border: 1px solid; */
+  display: flex;
+}
+.button
+{
+
+  outline : none;
+  padding: .4vw;
+  font-size: 2.5vw;
+}
